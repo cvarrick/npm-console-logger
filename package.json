@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cvarrick/npm-console-logger/issues"
   },
-  "homepage": "https://github.com/cvarrick/npm-console-logger#readme"
+  "homepage": "https://github.com/cvarrick/npm-console-logger#readme",
+  "dependencies": {
+    "winston": "^2.3.1"
+  }
 }
