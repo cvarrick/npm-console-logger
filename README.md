@@ -1,0 +1,1 @@
+Console logger convienence module
